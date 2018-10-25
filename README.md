@@ -1,1 +1,2 @@
-# testRepo1
+# sample-java-project
+Sample Java project for Javadoc tutorial
